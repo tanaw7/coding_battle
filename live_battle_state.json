@@ -1,0 +1,289 @@
+{
+  "teams": [
+    "Group 1: SMATCH",
+    "Group 2: SOS",
+    "Group 3: PyCharmers",
+    "Group 4: Piethon",
+    "Group 5: Fantastic 5"
+  ],
+  "scores": {
+    "Group 1: SMATCH": 6,
+    "Group 2: SOS": 6,
+    "Group 3: PyCharmers": 4,
+    "Group 4: Piethon": 8,
+    "Group 5: Fantastic 5": 7
+  },
+  "used_exercises": [
+    19,
+    27,
+    37,
+    45,
+    6,
+    23,
+    42,
+    22,
+    39,
+    28,
+    15,
+    8,
+    13,
+    49,
+    20
+  ],
+  "current_exercise": 40,
+  "round_log": [
+    {
+      "exercise": "19 (Topic B) — Median of Three Integers",
+      "stage_team": "Group 1: SMATCH",
+      "stage_points": 1,
+      "bug_teams": "",
+      "note": ""
+    },
+    {
+      "exercise": "27 (Topic C) — Keep Only Even Numbers",
+      "stage_team": "Group 2: SOS",
+      "stage_points": 3,
+      "bug_teams": "",
+      "note": ""
+    },
+    {
+      "exercise": "37 (Topic D) — Double Until Target",
+      "stage_team": "Group 3: PyCharmers",
+      "stage_points": 0,
+      "bug_teams": "",
+      "note": ""
+    },
+    {
+      "exercise": "45 (Topic E) — Remove All Occurrences",
+      "stage_team": "Group 4: Piethon",
+      "stage_points": 3,
+      "bug_teams": "",
+      "note": ""
+    },
+    {
+      "exercise": "06 (Topic A) — Is Positive",
+      "stage_team": "Group 5: Fantastic 5",
+      "stage_points": 3,
+      "bug_teams": "Group 1: SMATCH",
+      "note": ""
+    },
+    {
+      "exercise": "23 (Topic C) — First Divisible by k",
+      "stage_team": "Group 1: SMATCH",
+      "stage_points": 0,
+      "bug_teams": "",
+      "note": ""
+    },
+    {
+      "exercise": "42 (Topic E) — First Two Elements (safe)",
+      "stage_team": "Group 2: SOS",
+      "stage_points": 0,
+      "bug_teams": "",
+      "note": ""
+    },
+    {
+      "exercise": "22 (Topic C) — Count Greater Than",
+      "stage_team": "Group 3: PyCharmers",
+      "stage_points": 3,
+      "bug_teams": "",
+      "note": ""
+    },
+    {
+      "exercise": "39 (Topic D) — Remove Leading Zeros",
+      "stage_team": "Group 4: Piethon",
+      "stage_points": 0,
+      "bug_teams": "",
+      "note": ""
+    },
+    {
+      "exercise": "28 (Topic C) — Dash Join Words",
+      "stage_team": "Group 5: Fantastic 5",
+      "stage_points": 0,
+      "bug_teams": "",
+      "note": ""
+    },
+    {
+      "exercise": "15 (Topic B) — Between (Inclusive)",
+      "stage_team": "Group 1: SMATCH",
+      "stage_points": 3,
+      "bug_teams": "Group 4: Piethon",
+      "note": ""
+    },
+    {
+      "exercise": "08 (Topic A) — Decimal to Percent",
+      "stage_team": "Group 2: SOS",
+      "stage_points": 3,
+      "bug_teams": "",
+      "note": ""
+    },
+    {
+      "exercise": "13 (Topic B) — Bigger of Two",
+      "stage_team": "Group 3: PyCharmers",
+      "stage_points": 1,
+      "bug_teams": "Group 1: SMATCH, Group 4: Piethon, Group 5: Fantastic 5",
+      "note": ""
+    },
+    {
+      "exercise": "49 (Topic E) — Is Sorted (Ascending)",
+      "stage_team": "Group 4: Piethon",
+      "stage_points": 3,
+      "bug_teams": "",
+      "note": ""
+    },
+    {
+      "exercise": "20 (Topic B) — Sign of Number",
+      "stage_team": "Group 5: Fantastic 5",
+      "stage_points": 3,
+      "bug_teams": "",
+      "note": ""
+    }
+  ],
+  "undo_stack": [
+    {
+      "exercise_num": 19,
+      "awards": [
+        [
+          "Group 1: SMATCH",
+          1
+        ]
+      ],
+      "prev_stage_index": 0
+    },
+    {
+      "exercise_num": 27,
+      "awards": [
+        [
+          "Group 2: SOS",
+          3
+        ]
+      ],
+      "prev_stage_index": 1
+    },
+    {
+      "exercise_num": 37,
+      "awards": [],
+      "prev_stage_index": 2
+    },
+    {
+      "exercise_num": 45,
+      "awards": [
+        [
+          "Group 4: Piethon",
+          3
+        ]
+      ],
+      "prev_stage_index": 3
+    },
+    {
+      "exercise_num": 6,
+      "awards": [
+        [
+          "Group 5: Fantastic 5",
+          3
+        ],
+        [
+          "Group 1: SMATCH",
+          1
+        ]
+      ],
+      "prev_stage_index": 4
+    },
+    {
+      "exercise_num": 23,
+      "awards": [],
+      "prev_stage_index": 0
+    },
+    {
+      "exercise_num": 42,
+      "awards": [],
+      "prev_stage_index": 1
+    },
+    {
+      "exercise_num": 22,
+      "awards": [
+        [
+          "Group 3: PyCharmers",
+          3
+        ]
+      ],
+      "prev_stage_index": 2
+    },
+    {
+      "exercise_num": 39,
+      "awards": [],
+      "prev_stage_index": 3
+    },
+    {
+      "exercise_num": 28,
+      "awards": [],
+      "prev_stage_index": 4
+    },
+    {
+      "exercise_num": 15,
+      "awards": [
+        [
+          "Group 1: SMATCH",
+          3
+        ],
+        [
+          "Group 4: Piethon",
+          1
+        ]
+      ],
+      "prev_stage_index": 0
+    },
+    {
+      "exercise_num": 8,
+      "awards": [
+        [
+          "Group 2: SOS",
+          3
+        ]
+      ],
+      "prev_stage_index": 1
+    },
+    {
+      "exercise_num": 13,
+      "awards": [
+        [
+          "Group 3: PyCharmers",
+          1
+        ],
+        [
+          "Group 1: SMATCH",
+          1
+        ],
+        [
+          "Group 4: Piethon",
+          1
+        ],
+        [
+          "Group 5: Fantastic 5",
+          1
+        ]
+      ],
+      "prev_stage_index": 2
+    },
+    {
+      "exercise_num": 49,
+      "awards": [
+        [
+          "Group 4: Piethon",
+          3
+        ]
+      ],
+      "prev_stage_index": 3
+    },
+    {
+      "exercise_num": 20,
+      "awards": [
+        [
+          "Group 5: Fantastic 5",
+          3
+        ]
+      ],
+      "prev_stage_index": 4
+    }
+  ],
+  "stage_index": 0
+}
