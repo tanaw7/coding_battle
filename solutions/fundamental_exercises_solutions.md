@@ -1,8 +1,6 @@
 # Fundamental Exercises — Prompts + Solutions + Explanations (1–60)
 
-This document is written **for students**.
-
-## How to use this guide
+## How to use
 
 For each exercise you will see:
 
@@ -10,8 +8,6 @@ For each exercise you will see:
 - **Solution** (one possible correct implementation)
 - **Why it works** (short explanation)
 - **Try these tests** (2–3 inputs you can run)
-
-> Reminder: In assignments, **do not use **``** or **`` unless a prompt explicitly says so. Always **return** the result.
 
 ---
 
